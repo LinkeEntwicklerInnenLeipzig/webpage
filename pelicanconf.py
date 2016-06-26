@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Mario Wenzel'
 SITENAME = 'Linke Entwickler_innen Leipzig'
 SITEURL = ''
+RELATIVE_URLS = True
 
 PATH = 'content'
 
@@ -20,16 +21,17 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+            ('Linke Leipzig', 'http://die-linke-in-leipzig.de/'),
+        )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+            ('github', 'https://github.com/LinkeEntwicklerInnenLeipzig'),
+         )
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 5
+DEFAULT_ORPHANS = 1
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
