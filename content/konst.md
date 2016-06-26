@@ -1,0 +1,17 @@
+Title: Die AG Linke Entwickler_innen/Netzpolitik konstituiert sich
+Date: 2016-06-27 12:00
+Category: Allgemein
+Tags: Termine
+Authors: Mario Wenzel, Matthias Baumgarten
+
+Wir sind InformatikerInnen, ProgrammiererInnen oder einfach begeistert von Netzen und den Möglichkeiten der digitalen Welt.
+
+Wir wollen gemeinsam Prozesse innerhalb der Partei betrachten und Werkzeuge schaffen, um die Parteiarbeit zu vereinfachen und zu demokratisieren. Wir denken, den Genossinnen und Genossen müssen einfache Werkzeuge zur Verfügung stehen, damit Herrschaftswissen über Prozesse und Vorgänge seinen Wert verliert, um eine basisdemokratische, emanzipatorische, linke Politik und Arbeitsweise innerhalb der Partei voran zu treiben. Wir wollen für die Partei digitalen Mehrwert schaffen, so haben wir gemeinsam bereits für die neue Internetseite des Stadtverbandes, die demnächst online geht, eine interaktive Karte der Ortsverbände und Büros erstellt. Während wir transparent und mit quelloffener Software gearbeitet haben, hat der Landesverband für die Erstellung einer ähnlichen Karte kommerzielle Software und möglicherweise viel Geld eingesetzt.
+
+Wir wollen uns dafür einsetzen, dass quelloffene Software (im Grunde genossenschaftlich produzierte Software) in den Prozessen und Arbeitsweisen der Partei Einzug hält, um uns auch in dieser Sache von der Abhängigkeit von großen Softwareunternehmen zu lösen. Wir machen uns Sorgen, wenn in unseren Geschäftsstellen und bei der Erstellung von vielen unserer Dokumente Software von Microsoft verwendet wird, deren Zusammenarbeit mit den Geheimdiensten längst bekannt ist.
+
+Außerdem ist es Deutsche Überwachungssoftware wie FinFisher, die es Bahrain oder den Arabischen Emiraten erlaubt, NetzaktivistInnen zu verfolgen und hinter Gitter zu bringen. Es ist Deutsche Software die es Drohnen erlaubt, zu fliegen. Wir machen uns Sorgen über die militärische Nutzung von Software und die möglichen Auswirkungen von Algorithmen und Big-Data auf die Privatsphäre der Menschen, wollen aber auch die Abhängigkeit der Partei von Facebook und Twitter beobachten und Strategien entwickeln, wie wir mit dieser Abhängigkeit in Zukunft umgehen wollen.
+
+Unsere Aufgaben sehen wir zusammenfassend so: Befreien von Dokumenten (freie und barrierearme Formate), Vorantreiben von offenen Dokumentenstandards in der Parteiarbeit, Entwicklung von Werkzeugen zur Verbesserung von Arbeitsflüssen und Zusammenarbeit um Arbeitszeit und -kraft für wichtige Dinge frei zu machen, Vorantreiben von Verschlüsselung in der Partei, Halten von Code und Verhinderung von Bitrot (Schnittstellenveraltung) für unsere eigenen Produkte, Vorantreiben der Nutzung freier, genossenschaftlich produzierter Software, Erklärung technischer Hintergründe für Delegierte, Beobachtung des Datenschutzes in Partei und Gesellschaft zu Zeiten von Big-Data und Cloud-Computing, Vorantreiben von friedlicher Softwarenutzung und -entwicklung, sowie die Entwicklung von technischen Konzepten und Prüfung der Machbarkeit zum Rückzug von geschlossenen IT-Produkten.
+
+Um in diesen Bereichen tätig zu werden, unsere gesellschaftlichen Vorstellungen auch digital voran zu treiben, partizipatorische und freie Werkzeuge zu finden oder selbst zu schaffen, konstituiert sich am 1. September 2016 (19:00, LHL) die "AG Linke EntwicklerInnen/Netzpolitik". Dabei laden wir herzlich Menschen mit IT-Hintergrund, Programmiererfahrung oder einfach Interesse an modernen Arbeits- und Partizipationskonzepten und Netzpolitik ein, sich zu beteiligen.
