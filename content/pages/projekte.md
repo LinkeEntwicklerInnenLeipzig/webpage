@@ -15,3 +15,11 @@ Quellen: <https://github.com/LinkeEntwicklerInnenLeipzig/digispt>
 Interaktive Karte der Ortsverbände und Büros für die Homepage der Partei.
 
 Quellen: <https://github.com/LinkeEntwicklerInnenLeipzig/svg_linkeleipzig>
+
+-------------------------
+
+# Mitteilungsblatt Codegenerator
+
+Thumbnails und Code für Mittelungsblatt-Tabellen erstellen.
+
+Quellen: <https://github.com/LinkeEntwicklerInnenLeipzig/mibgen>
