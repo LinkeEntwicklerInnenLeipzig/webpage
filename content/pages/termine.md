@@ -10,5 +10,5 @@ Jeden 1. Donnerstag im September und März
 
 # In Aktion
 
-Auf dem nächsten Stadtparteitag werden wir (höchstwarhscheinlich) mit dem
-digitalen Stadtparteitag am Start sein
+* 22. Oktober 2016 - Auf dem nächsten Stadtparteitag werden wir mit dem
+  [digitalen Stadtparteitag]({filename}projekte.md) am Start sein
