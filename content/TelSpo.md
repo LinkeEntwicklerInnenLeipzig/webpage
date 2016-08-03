@@ -1,5 +1,5 @@
 Title: Telekom entfernt Streamingbonus
-Date: 2016-06-27 12:00
+Date: 2016-08-03 17:00
 Category: Allgemein
 Tags: Telekom, Spotify, Netzneutralität, Infrastruktur
 Authors: Matthias Baumgarten
