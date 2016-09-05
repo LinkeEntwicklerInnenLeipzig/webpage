@@ -10,5 +10,5 @@ Nun wird diese Möglichkeit komplett entfernt, womit das Angebot "Music Streamin
 so, dass die Drosselung stattfand wenn man sein Datenvolumen mit anderen Diensten aufgebraucht hat.
 
 Die Telekom begründet diesen Schritt damit, dass sich das genutzte Datenvolumen vervierfacht hätte. Einerseits sorgt dies für eine Gleichstellung aller Streaming-Anbieter, was den Ansprüchen der Netzneutralität entspricht. Das man darauf hinaus wollte ist aber angesichts des bisherigen Verhaltens nicht denkbar.
-Wahrscheinlicher ist, dass die Telekom es weiterhin nicht schafft sein Netz kundengerecht auszubauen. So muss ein Angebot eingestellt werden weil es "zu beliebt" ist. 
+Wahrscheinlicher ist, dass die Telekom es weiterhin nicht schafft sein Netz kundengerecht auszubauen. So muss ein Angebot eingestellt werden weil es "zu beliebt" ist.
 Datenvolumen ist in Deutschland weiterhin vergleichweise teuer (Dazu ein Artikel der [Zeit](http://www.welt.de/wirtschaft/webwelt/article141320502/Deutsche-zahlen-gewaltig-fuer-winziges-Datenvolumen.html)) und vielleicht hätte die Telekom das Angebot bestehen lassen können, wenn sie denn nicht so sehr am Gewinn interessiert wäre.
