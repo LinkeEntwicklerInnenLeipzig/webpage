@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Mario Wenzel'
-SITENAME = 'Linke Entwickler_innen Leipzig'
+SITENAME = 'Linke Entwickler*innen Leipzig'
 SITESUBTITLE = 'Eine AG der Linken Leipzig'
 SITEURL = ''
 RELATIVE_URLS = True
